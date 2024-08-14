@@ -13,8 +13,8 @@ This FastAPI project allows users to upload PDF files, generate questions from t
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/qa-generator.git
-   cd qa-generator
+   git clone https://github.com/yourusername/QA-generator.git
+   cd QA-generator
    ```
 
 2. **Create and Activate Virtual Environment**:
